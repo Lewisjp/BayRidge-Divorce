@@ -1,0 +1,28 @@
+p, h3, li, .container {
+  color: #666666;
+}
+
+hr {
+  border-width: 3px;
+}
+
+.contactOrange {
+  background-color: #80B2E6;
+  border-radius: 0px 0px 0px 0px;
+  color: white;
+}
+
+.RichardOrange {
+  color: #80B2E6;
+  border-color: #80B2E6;
+}
+
+.RichardBlack {
+  color: #666666;
+  border-color: #666666;
+}
+
+.legalAd {
+  position: relative;
+  bottom: -2em;
+}
